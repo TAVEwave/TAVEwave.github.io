@@ -256,7 +256,8 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
+testimonial-title: CHAIRMEN
+testimonial-items: 
   - name: "오예림"
     image: "assets/images/testimonial/yerimrim.jpg"
     designation: "8기 회장"
