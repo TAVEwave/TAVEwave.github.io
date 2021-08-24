@@ -202,7 +202,7 @@ services:
   - {
       name: TAVE 친목활동,
       icon: ti-face-smile,
-      description: "MT, 모각코, 테버렌드 등 다양한 친목활동을 통해 TAVE원들과 소중한 인적 네트워크를 향상 할 수 있습니다. 또한 이러한 네트워크를 통해 TAVE원들과 다양한 프로젝트 팀를 구성할 수 있습니다",
+      description: "MT, 모각코, 테버렌드 등 다양한 친목활동을 통해 TAVE원들과 소중한 인적 네트워크를 형성 할 수 있습니다. 또한 이러한 네트워크를 통해 TAVE원들과 다양한 프로젝트 팀를 구성할 수 있습니다 이러한 황동은 테이브의 독보적인 소통 플렛폼인 <b>AGIT</b>를 통해 진행 됩니다",
       active: ,# Add true to select section
     }
   - {
