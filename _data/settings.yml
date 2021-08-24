@@ -1,19 +1,19 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo: 
-author: themefisher
+title: TAVE
+logo: TAVEwave.github.io/assets/images/TAVE.png
+author: TAVE
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: t-ave@naver.com
+phone: +000 0000 0000
+address: Seoul
+copyright: Copyright &copy; 2020 Developed  by [Ohyerim](https://yerimoh.github.io/) & [Lee Sangwon](https://github.com/s-wlii)
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+- {name: Record, link: '/blog'}
+- {name: project, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -38,12 +38,12 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: TAVE <br> Technology <br> Wave
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
+
+- {icon: "ti-instagram", link: "https://www.instagram.com/tave_wave/"}
+- {icon: "ti-github", link: "https://github.com/TAVEwave"}
 - {icon: "ti-twitter", link: "#"}
 
 
@@ -52,10 +52,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  TAVE는 2018년도 초에 창설된 국내 최초 4차 산업혁명 동아리입니다. Technology WAVE의 약자로 4차 산업혁명 기술의 물결을 선도한다 라는 뜻을 가지고 있습니다
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: know more about TAVE
 
 
 # About Page
@@ -77,11 +77,11 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Yerim Oh"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
     
-  - title : "Julias Carlie"
+  - title : "Sangwon Lee"
     image : "assets/images/team/member-2.png"
     designation : "Web Developer"
     
