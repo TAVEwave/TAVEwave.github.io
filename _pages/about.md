@@ -1,8 +1,7 @@
 ---
 layout: about
 title: About We
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: Technology Wave
 signature: assets/images/about/TAVE.png
 ---
 
