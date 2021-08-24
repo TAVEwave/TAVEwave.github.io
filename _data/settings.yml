@@ -66,7 +66,7 @@ work-process:
   
   - title: "전반기 활동"
     icon: "assets/images/icons/design.png"
-    content: "✔ <b>전반기 스터디 어택</b> → 운영진과의 피드백 <br>✔  <b>테버랜드</b> → 스터디원 외 동아리원들과 친목의 장"
+    content: "✔ <b>전반기 스터디 어택</b> ➡ 운영진과의 피드백 <br>✔  <b>테버랜드</b> ➡ 스터디원 외 동아리원들과 친목의 장"
   
   - title: "전반기 시상식 & 컨퍼런스"
     icon: "assets/images/icons/print.png"
@@ -74,7 +74,7 @@ work-process:
     
   - title: "후반기 만남의 장"
     icon: "assets/images/icons/design.png"
-    content: "후반기 스터디, 프로젝트 팀 구성"   
+    content: "후반기 스터디 & 프로젝트 팀 구성"   
     
   - title: "후반기 활동"
     icon: "assets/images/icons/design.png"
