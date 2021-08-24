@@ -72,7 +72,7 @@ work-process:
     icon: "assets/images/icons/print.png"
     content: "✔ <b>우수회원 시상</b> <br>✔ <b>우수 스터디& 프로젝트 시상</b> <br>✔ 각 전반기 결과물 발표를 통한 소통"
     
-   - title: "후반기 만남의 장"
+  - title: "후반기 만남의 장"
     icon: "assets/images/icons/design.png"
     content: "후반기 스터디, 프로젝트 팀 구성"   
   
