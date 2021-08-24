@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem 'webrick'
+gem 'bundler'
+gem 'jekyll'
+gem 'jekyll-sitemap'
+gem 'wdm', '>= 0.1.0'

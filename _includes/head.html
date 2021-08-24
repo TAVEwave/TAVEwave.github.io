@@ -1,40 +1,30 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1; minimum-scale=1; user-scalable=no;">
-  {% if page.desc %}
-    <meta content="{{ page.desc }}" name="description">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{%if page.description%}{{page.description}}{%else%}{{site.data.settings.description}}{%endif%}">
+    
+  {% if site.author %}
+  <meta name="author" content="{{ . }}">
   {% endif %}
-  {% if page.keywords %}
-    <meta name="keywords" content="{{ page.keywords }}">
+  
+  <!-- ** Plugins Needed for the Project ** -->
+  {% for css in site.data.plugins.css %}
+  <link rel="stylesheet" href="{{ css | relative_url }}">
+  {% endfor %}
+
+  <!-- Main Stylesheet -->
+  <link href="{{ '/assets/scss/style.css' | relative_url }}" rel="stylesheet">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
+  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
+
+  <!-- google analytics -->
+  {% if site.data.settings.google-analytics %}
+    {% include google-analytics.html %}
   {% endif %}
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="baseurl" content="{{ site.baseurl }}">
 
-  <title>
-    {% if page.title != "index" %}
-        {{ site.title }}|{{ page.title }}
-    {% else %}
-        {{ site.title }}
-    {% endif %}
-  </title>
-  <!-- favicon -->
-  <link rel="shortcut icon" href="{{ "/static/assets/img/favicon.ico" | prepend: site.baseurl }}">
-
-  <!-- Main CSS -->
-  <link href="{{ "/static/assets/app-20210315.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-  <link href="{{ "/static/css/custom.css" | prepend: site.baseurl }}" rel="stylesheet">
-
-  <!-- Main Scripts -->
-  <script src="{{"/static/assets/app-20210315.min.js"| prepend: site.baseurl }}"></script>
-  <script src="{{"/static/assets/blog-20210315.min.js"| prepend: site.baseurl }}"></script>
-
-  <!-- Google AdSense -->
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-6196184620210315",
-      enable_page_level_ads: true
-    });
-  </script>
 </head>
