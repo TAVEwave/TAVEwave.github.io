@@ -57,32 +57,32 @@ blurb-btn-name: know more about TAVE
 # Work Process Section
 work-process:
   - title: "OT (ICE BREAKING)"
-    icon: "assets/images/icons/plan.png"
-    content: "✔ 동아리 내 자체 커뮤니티 앱 <b>아지트</b> <br>✔ TAVE 메타버스 <b>Gather Town</b> 소개 <br>✔ TAVE만의 스터디&프로젝트 가이드 <br>✔ <b>소통의 장 진행</b>(공통 관심 분야를 기준으로 팀 결성)"
+    icon: "assets/images/icons/1.png"
+    content: "✔ 동아리 내 자체 커뮤니티 앱 <b>아지트</b> <br>✔ TAVE 메타버스 <b>Gather Town</b> 소개 <br>✔ TAVE만의 스터디&프로젝트 가이드 <br>✔ <b>소통의 장 진행</b> <br>공통 관심 분야를 기준으로 팀 결성"
 
   - title: "전반기 만남의 장"
-    icon: "assets/images/icons/design.png"
+    icon: "assets/images/icons/2.png"
     content: "전반기 스터디, 프로젝트 팀 구성"
   
   - title: "전반기 활동"
-    icon: "assets/images/icons/design.png"
+    icon: "assets/images/icons/3.png"
     content: "✔ <b>전반기 스터디 어택</b> ➡ 운영진과의 피드백 <br>✔  <b>테버랜드</b> <br> 스터디원 외 동아리원들과 친목의 장"
   
   - title: "전반기 시상식 & 컨퍼런스"
-    icon: "assets/images/icons/print.png"
+    icon: "assets/images/icons/4.png"
     content: "✔ <b>우수회원 시상</b> <br>✔ <b>우수 스터디& 프로젝트 시상</b> <br>✔ 각 전반기 결과물 발표를 통한 소통"
     
   - title: "후반기 만남의 장"
-    icon: "assets/images/icons/design.png"
+    icon: "assets/images/icons/5.png"
     content: "후반기 스터디 & 프로젝트 팀 구성"   
     
   - title: "후반기 활동"
-    icon: "assets/images/icons/design.png"
+    icon: "assets/images/icons/6.png"
     content: "✔ <b>후반기 스터디 어택</b> <br> 운영진과의 피드백 <br>✔  <b>테버랜드</b> <br> 스터디원 외 동아리원들과 친목의 장 <br> ✔ <b>OB 초청 질문회 & 강연</b> <br> IT 업계 현직자 분들을 초청하여 질문회 & 강연 개최  리서치 OB강연  <br>✔ <b>테이브의 밤</b> <br> 테이브의 모든 기수 분들과의 파티"   
     
  
   - title: "후반기 시상식 & 컨퍼런스"
-    icon: "assets/images/icons/print.png"
+    icon: "assets/images/icons/7.png"
     content: "✔ <b>우수회원 시상</b> <br>✔ <b>우수 스터디& 프로젝트 시상</b> <br>✔ 각 후반기 결과물 발표를 통한 소통<br>✔ <b> 활동 증명서 수여식</b>"
 
 # My Team Section
