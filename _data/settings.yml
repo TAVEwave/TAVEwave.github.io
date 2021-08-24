@@ -208,7 +208,7 @@ services:
    - {
       name: TAVE Metabus,
       icon: ti-rocket,
-      description: "<b>GATHER TOWN</b>이라는 독보적인 메타버스 서비스를 통해 온라인 활동을 오프라인 활동과 같이 같게 만들어 온라인이라는 제약을 없앴습니다. 각 상황에 맞는 공간을 직접 커스터마이징하여 COVID-19 이라는 제약의 온라인 활동에 혁명을 더했습니다 ",
+      description: "<b>GATHER TOWN</b>이라는 독보적인 메타버스 서비스를 통해 온라인 활동을 오프라인 활동과 같이 같게 만들어 온라인이라는 제약을 없앴습니다. 각 상황에 맞는 공간을 직접 커스터마이징하여 COVID-19 이라는 제약의 온라인 활동에 혁명을 더했습니다",
       active: true, # Add true to select section
     }
 
@@ -315,7 +315,6 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-
   - logo: "assets/images/clients-logo/p8.png"
     url: "#"
 
@@ -333,7 +332,7 @@ client-slider-items:
 
   - logo: "assets/images/clients-logo/p3.png"
     url: "#"
-  
+    
   - logo: "assets/images/clients-logo/p4.png"
     url: "#"
     
