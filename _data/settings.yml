@@ -76,7 +76,10 @@ work-process:
     icon: "assets/images/icons/design.png"
     content: "후반기 스터디 & 프로젝트 팀 구성"   
     
-
+  - title: "후반기 활동"
+    icon: "assets/images/icons/design.png"
+    content: "✔ <b>후반기 스터디 어택</b> ➡ 운영진과의 피드백 <br>✔  <b>테버랜드</b> ➡ 스터디원 외 동아리원들과 친목의 장 <br> ✔ <b>OB 초청 질문회 & 강연</b> ➡ IT 업계 현직자 분들을 초청하여 질문회 & 강연 개최 + 리서치 OB강연  <br>✔ <b>테이브의 밤</b> ➡ 테이브의 모든 기수 분들과의 파티"   
+    
  
   - title: "후반기 시상식 & 컨퍼런스"
     icon: "assets/images/icons/print.png"
