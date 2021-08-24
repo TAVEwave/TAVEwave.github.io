@@ -257,16 +257,19 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "오예림"
+    image: "assets/images/testimonial/yerim.jpg"
+    designation: "8기 회장"
+    content: "예비 8기 회원분들께
+4차 산업혁명 학문에 열정이 있는 모든 분들이라면 TAVE에서 다재다능한 사람들과 함께 혼자는 상상도 할 수 없었던 결과를 낼 수 있다고 자신합니다. TAVE와 함께 활동해 나가며 시작했을 때와 달라진 자신을 만나보세요. 4차 산업혁명의 위력이 커지고 있는 이 시대에, 이를 주도해 나가는 인재가 되실 회원분들을 모집합니다. 
+"
 
-  - name: "Jesica Gomez"
+  - name: "김윤현"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+    designation: "7기 회장"
+    content: "안녕하세요 7기 회장 김윤현입니다. 
+빅데이터를 기반으로 하는 다양한 4차 산업 기술은 영화에서나 보는 그런 막연한 기술이 아닌 이미 우리 삶의 곳곳에 적용되고 있습니다. IT 산업은 물론이고 다양한 산업에서 사용되며 작업 생산성을 높여가고 있습니다. 이런 시대적 흐름에 대비하며 함께 발전해 나갈 회원들을 모집합니다
+"
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
