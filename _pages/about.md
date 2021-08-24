@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About We
-image: assets/images/about/author.jpg
+image: assets/images/about/TTT.png
 author: Technology Wave
 signature: assets/images/about/TAVE.png
 ---
