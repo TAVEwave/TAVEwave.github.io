@@ -297,7 +297,7 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "https://user-images.githubusercontent.com/76824611/130677256-6a8c4ace-43cd-4a32-b0c0-01ca8020855d.png"
     url: "#"
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
