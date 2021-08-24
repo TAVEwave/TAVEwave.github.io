@@ -173,24 +173,36 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Activity
 services:
   - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Tave Seminar,
+      icon: ti-blackboard,
+      description: "✔ 후원사 <b>㈜노매드커넥션 대표님</b> 4차 산업혁명 관련 기술 소개와 적용 현황 세미나 <br> ✔ <b>SK증권 리서치센터</b> 주관 스마트시티 & 4차 산업혁명 세미나",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: TAVE Research,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Tave OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 데이터 분석, NLP 위주로 연구활동을 수행중입니다. 현재 24명늬 멤버들이 활동하고 있으며 자양한 주제의 스터디와 프로젝트가 진행중입니다.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: TAVE OB Lecture,
+      icon: ti-microphone-alt,
+      description: "TAVE의 강점인 인적네트워크 활용의 꽃으로 다양한 IT업계에서 활동하고 있는 TAVE OB 분들을 초청하여 강연 & 질문회를 매 기수 개최합니다. 활동기수는 원하는 질문에 대한 답을 들을 수 있고 다양한 업계의 현직 이야기를 들을 수 있습니다",
+      active: ,# Add true to select section
+    }
+  - {
+      name: TAVE Conference,
+      icon: ti-cup,
+      description: "Tave 매 기수 전반기와 후반기에 진행하는 테이브의 시그니처 활동입니다. 매 기수 테이비들의 결과문들을 발표하고 이를 시연해 보여주며 지식을 나누는 활동입니다. 이 활동은 동아리 외부의 사람들이 관람 할 수 있으며 외부인이 관람이 다음기수에 가산점을 얻을 수 있습니다.",
+      active: true, # Add true to select section
+    }
+  - {
+      name: TAVE 친목활동,
+      icon: ti-face-smile,
+      description: "MT, 모각코, 테버렌드 등 다양한 친목활동을 통해 TAVE원들과 소중한 인적 네트워크를 향상 할 수 있습니다. 또한 이러한 네트워크를 통해 TAVE원들과 다양한 프로젝트 팀를 구성할 수 있습니다",
       active: ,# Add true to select section
     }
 
