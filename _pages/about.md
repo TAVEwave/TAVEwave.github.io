@@ -1,18 +1,42 @@
 ---
 layout: about
-title: About Me
+title: About We
 author: Johnathan Smith
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+signature: assets/images/about/TAVE.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+**💎 프로젝트 문의, 협업 💎**    
+먼저, 저희 협업 절차에 대해서 말씀해드린다면 만약 저희와 협업이 체결되신다면         
+1. 저희는 신입기수인 YB가 아닌 **OB 대상으로 검증된 개발자분들을 모집**해드릴 예정입니다(제안해주신 프로젝트의 구현 경력이 있으신 분으로 최대한 선발해드릴 예정입니다)      
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+2. 위의 내용과 제안해주신 분들의 의견을 모두 반영한 뒤 이 내용을 바탕으로 **'협업 체결서'** 를 작성하여 협업이 흐지부지 되지 않게 하고있습니다
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+3. 또한 이러한 OB협력 활동 모두 소중한 TAVE내의 활동이기 때문에 협업중이신 TAVE 회원과 함께 **진행보고서, 완료보고서를 작성**해주시면 감사하겠습니다(양식은 따로 준비해 드리겠습니다) 
+
+4. 또한 1월 중순 안에 개발이 완료되는 활동이라면 협업하는 TAVE OB 분들이 해당 **프로젝트를 컨퍼런스에서 발표하는 것에 동의**해주셔야합니다    
+
+또한 취지에 맞는 개발자를 섭외해드리기 위해 이 부분은 명확히 보내주시면 감사하겠습니다          
+* 정확히 어떤 구현을 하실 예정이신지    
+  - 구체적인 기능설명      
+  - 화면설계서 등 서비스에 관한 문서가 마련여부   
+* 위 프로젝트의 비전    
+* 위 프로젝트의 사업성    
+* 개발 기한    
+* 현재 프로젝트의 개발 정도는 어느정도    
+
+**💎 Who We Find 💎**   
+🔹 스터디      
+인공지능(딥러닝, 머신러닝), 데이터 분석, 개발 등 4차 산업혁명 분야에 관심 있는 분     
+공모전이나 프로젝트, 논문 발표 등에 참가하여 수상 경력과 실력을 쌓고 싶은 분     
+ 
+🔹 프로젝트    
+공모전에 참여하여 수상해보고 실력을 쌓고 싶은 사람   
+실전 프로젝트 경험을 쌓고 싶은 사람   
+ 
+🔹 9기 리크루팅 예정일    
+2022 01월      
+  
+🔹 활동내용     
+- 데이터처리, 머신러닝/딥러닝, 언어기초, 개발 등 관심 분야 스터디 및 프로젝트 진행   
+- 매 학기 별 컨퍼런스, 프로젝트 발표 진행   
