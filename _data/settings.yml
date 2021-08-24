@@ -82,7 +82,7 @@ work-process:
  
   - title: "후반기 시상식 & 컨퍼런스"
     icon: "assets/images/icons/print.png"
-    content: "✔ <b>우수회원 시상</b> <br>✔ <b>우수 스터디& 프로젝트 시상</b> <br>✔ 각 후반기 결과물 발표를 통한 소통<br>✔ <b> 활동 증명서 수여식</b>"  
+    content: "✔ <b>우수회원 시상</b> <br>✔ <b>우수 스터디& 프로젝트 시상</b> <br>✔ 각 후반기 결과물 발표를 통한 소통<br>✔ <b> 활동 증명서 수여식</b>"
 
 # My Team Section
 team:
