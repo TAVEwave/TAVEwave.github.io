@@ -236,7 +236,10 @@ portfolio-home-items:
   - image: "assets/images/portfolio/5.png"
     url: "#"
     project_name: "한이음 공모전 /논문게재 프로젝트"
-    
+
+  - image: "assets/images/portfolio/1.png"
+    url: "#"
+    project_name: "숙명여자대학교 소프트웨어랩 1기: 스노우 소프트웨어 랩 창업 프로그램 선발"
 
 # Portfolio Page
 portfolio-label:
