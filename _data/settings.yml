@@ -234,9 +234,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "APP/WEB", type: "aw" }
+  - { title: "AI", type: "ai" }
+  - { title: "DATA ANALYTICS", type: "data" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
