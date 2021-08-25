@@ -223,7 +223,7 @@ portfolio-home-items:
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "프로젝트 이름"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
@@ -246,52 +246,60 @@ portfolio-label:
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "ai"
+      
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "branding"
+      - type: "aw"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "illustration"
+      - type: "ai"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "ai"
+      - type: "data"
 
   - image: "assets/images/portfolio/item-8.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "illustration"
+      - type: "aw"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "design"
+      - type: "data"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "branding"
+      - type: "data"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "aw"
+      - type: "ai"
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
+    project_name: "Dacon"
     portfolio-type:
-      - type: "illustration"
+      - type: "data"
 
 #-------------------------------
 # Testimonials Section
