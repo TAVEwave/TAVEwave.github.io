@@ -7,7 +7,7 @@ logo:
 author: TAVE
 description: this is meta description
 email: t-ave@naver.com
-phone: +000 0000 0000
+phone: CONTACT WITH INSTSGRSM DM) @tave_wave
 address: Seoul
 copyright: Copyright &copy; 2020 Developed  by [Ohyerim](https://yerimoh.github.io/) & [Lee Sangwon](https://github.com/s-wlii)
 
@@ -167,7 +167,7 @@ education:
   - {
       name: TAVE 7기,
       date: "2021.01 ~ 2021.06",
-      organization: "✔ SCI 논문 개제(Applied Sciences, IF 2.842) <br>  ✔ 숙명여자대학교 스노우 소프트웨어 랩 1기 / 채식 다이어리 어플리케이션 베지메이트 개발 중  <br>  ✔ 2021 NVIDIA DLI Certificated Instructor Program (CIP) <br>  ✔ 스노우 소프트웨어 랩 창업 프로그램 선발 <br>  ✔ 제 19회 임베디드 소프트웨어 경진 대회 휴머노이드 부문 본선 진출<br>  ✔ 2021 금융보안원 대학생 금융보안캠프 아이디어 경진대회 최우수상 ",
+      organization: "✔ SCI 논문 게재(Applied Sciences, IF 2.842) <br>  ✔ 숙명여자대학교 스노우 소프트웨어 랩 1기 / 채식 다이어리 어플리케이션 베지메이트 개발 중  <br>  ✔ 2021 NVIDIA DLI Certificated Instructor Program (CIP) <br>  ✔ 스노우 소프트웨어 랩 창업 프로그램 선발 <br>  ✔ 제 19회 임베디드 소프트웨어 경진 대회 휴머노이드 부문 본선 진출<br>  ✔ 2021 금융보안원 대학생 금융보안캠프 아이디어 경진대회 최우수상 ",
     }
 
 #-------------------------------
@@ -184,7 +184,7 @@ services:
   - {
       name: TAVE Research,
       icon: ti-vector,
-      description: "Tave OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 데이터 분석, NLP 위주로 연구활동을 수행중입니다. 현재 25명의 멤버들이 활동하고 있으며 자양한 주제의 스터디와 프로젝트가 진행중입니다.",
+      description: "Tave OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 데이터 분석, NLP 위주로 연구활동을 수행중입니다. 현재 25명의 멤버들이 활동하고 있으며 다양한 주제의 스터디와 프로젝트가 진행중입니다.",
       active: true, # Add true to select section
     }
   - {
