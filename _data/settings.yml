@@ -321,26 +321,23 @@ client-slider-items:
   - logo: "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
     url: "#"
 
-  - logo: "assets/images/clients-logo/p3.png"
+  - logo: "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
     url: "#"
 
-  - logo: "assets/images/clients-logo/p4.png"
+  - logo: "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
     url: "#"
     
-  - logo: "assets/images/clients-logo/p5.png"
+  - logo: "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
     url: "#"
 
-  - logo: "assets/images/clients-logo/p6.png"
+  - logo: "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
     url: "#"
     
-  - logo: "assets/images/clients-logo/p7.png"
+  - logo: "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
     url: "#"
     
   - logo: "assets/images/clients-logo/p8.png"
     url: "#"
-
-  - logo: "assets/images/clients-logo/p9.jpg"
-    url: "#"  
 #-------------------------------
 # Contact Section
 
