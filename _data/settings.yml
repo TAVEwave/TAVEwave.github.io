@@ -301,7 +301,7 @@ testimonial-items:
 "
 
   - name: "김윤현"
-    image: "assets/images/testimonial/yy.png"
+    image: "assets/images/testimonial/yy.jpg"
     designation: "7기 회장"
     content: "안녕하세요 7기 회장 김윤현입니다. 
 빅데이터를 기반으로 하는 다양한 4차 산업 기술은 영화에서나 보는 그런 막연한 기술이 아닌 이미 우리 삶의 곳곳에 적용되고 있습니다. IT 산업은 물론이고 다양한 산업에서 사용되며 작업 생산성을 높여가고 있습니다. 이런 시대적 흐름에 대비하며 함께 발전해 나갈 회원들을 모집합니다
@@ -317,23 +317,29 @@ client-slider-items:
   - logo: "https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"
     url: "#"
 
-  - logo: "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+  - logo: "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
     url: "#"
 
-  - logo: "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+  - logo: "assets/images/clients-logo/p3.png"
     url: "#"
 
-  - logo: "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+  - logo: "assets/images/clients-logo/p4.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/p5.png"
     url: "#"
 
-  - logo: "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+  - logo: "assets/images/clients-logo/p6.png"
     url: "#"
-
-  - logo: "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+    
+  - logo: "assets/images/clients-logo/p7.png"
     url: "#"
-
+    
   - logo: "assets/images/clients-logo/p8.png"
     url: "#"
+
+  - logo: "assets/images/clients-logo/p9.jpg"
+    url: "#"  
 #-------------------------------
 # Contact Section
 
