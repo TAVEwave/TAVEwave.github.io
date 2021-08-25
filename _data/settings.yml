@@ -88,12 +88,12 @@ work-process:
 # My Team Section
 team:
   - title: "Yerim Oh"
-    image: "assets/images/team/member_oh.png"
-    designation: "Project Manager"
+    image: "assets/images/team/member-1.png"
+    designation: "Manager"
 
   - title: "Sangwon Lee"
-    image: "assets/images/team/member-1.png"
-    designation: "Web Developer"
+    image: "assets/images/team/member-2.png"
+    designation: "Manager"
 
   - title: "John Doe"
     image: "assets/images/team/member-3.png"
