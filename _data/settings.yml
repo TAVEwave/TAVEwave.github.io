@@ -244,7 +244,7 @@ portfolio-label:
   - { title: "DATA ANALYTICS", type: "data" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/sci.png.png"
+  - image: "assets/images/portfolio/sci.png"
     url: "#"
     project_name: "SCI 논문 게재: Applied Sciences, IF 2.842"
     portfolio-type:
