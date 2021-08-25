@@ -26,5 +26,7 @@
   {% if site.data.settings.google-analytics %}
     {% include google-analytics.html %}
   {% endif %}
-
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
 </head>
