@@ -184,7 +184,7 @@ services:
   - {
       name: TAVE Research,
       icon: ti-vector,
-      description: "Tave OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 데이터 분석, NLP 위주로 연구활동을 수행중입니다. 현재 24명늬 멤버들이 활동하고 있으며 자양한 주제의 스터디와 프로젝트가 진행중입니다.",
+      description: "Tave OB들을 위한 연구 및 개발 그룹입니다. 컴퓨터비전, 데이터 분석, NLP 위주로 연구활동을 수행중입니다. 현재 25명의 멤버들이 활동하고 있으며 자양한 주제의 스터디와 프로젝트가 진행중입니다.",
       active: true, # Add true to select section
     }
   - {
