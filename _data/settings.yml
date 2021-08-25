@@ -251,55 +251,85 @@ portfolio-items:
       - type: "ai"
       
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/1.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "숙명여자대학교 소프트웨어랩 1기: 스노우 소프트웨어 랩 창업 프로그램 선발"
     portfolio-type:
       - type: "aw"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/2.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "2021 한국통신학회 논문게재"
     portfolio-type:
       - type: "ai"
 
-  - image: "assets/images/portfolio/item-6.png"
+  - image: "assets/images/portfolio/3.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "2021 금융보안원 대학생 금융보안캠프 아이디어 경진대회 최우수상"
     portfolio-type:
       - type: "ai"
-      - type: "data"
 
-  - image: "assets/images/portfolio/item-8.png"
+  - image: "assets/images/portfolio/4.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: " 19회 임베디드 소프트웨어 경진 대회 휴머노이드 부문 본선 진출"
     portfolio-type:
+      - type: "ai"
+
+  - image: "assets/images/portfolio/5.png"
+    url: "#"
+    project_name: "한이음 공모전 /논문게재 프로젝트"
+    portfolio-type:
+      - type: "ai"
       - type: "aw"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/7.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "Optiver Realized Volatility Prediction 경진대회"
     portfolio-type:
       - type: "data"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    project_name: "Dacon"
-    portfolio-type:
-      - type: "data"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    project_name: "Dacon"
-    portfolio-type:
-      - type: "aw"
       - type: "ai"
 
-  - image: "assets/images/portfolio/item-7.png"
+  - image: "assets/images/portfolio/6.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "기상청 콘테스트: 냉난방 가전 수요 분석 및 비즈니스 모델 제안"
     portfolio-type:
       - type: "data"
+
+
+  - image: "assets/images/portfolio/8.png"
+    url: "#"
+    project_name: "데이콘 전력 사용량 예측 AI 경진대회"
+    portfolio-type:
+      - type: "data"
+      - type: "ai"
+ 
+  - image: "assets/images/portfolio/9.png"
+    url: "#"
+    project_name: "2021 날씨 빅데이터 콘테스트"
+    portfolio-type:
+      - type: "data"
+      - type: "ai"
+
+  - image: "assets/images/portfolio/11.png"
+    url: "#"
+    project_name: "이웃간 돕고 돕는 커뮤니티 서비스 앱 개발"
+    portfolio-type:
+      - type: "data"
+      - type: "ai"
+
+  - image: "assets/images/portfolio/22.png"
+    url: "#"
+    project_name: "혼자 공부할 때 유용한 앱 개발"
+    portfolio-type:
+      - type: "data"
+      - type: "ai"
+
+  - image: "assets/images/portfolio/33.png"
+    url: "#"
+    project_name: "어색한 친구 사이를 위한 게임 제공 웹서비스 개발"
+    portfolio-type:
+      - type: "data"
+      - type: "ai"
 
 #-------------------------------
 # Testimonials Section
