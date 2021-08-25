@@ -219,18 +219,23 @@ services:
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
+    project_name: "Dacon"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
+    project_name: "Dacon"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
+    project_name: "Dacon"
 
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
+    project_name: "Dacon"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
+    project_name: "Dacon"
 
 # Portfolio Page
 portfolio-label:
