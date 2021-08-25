@@ -217,25 +217,26 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/sci.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "SCI 논문 게재: Applied Sciences, IF 2.842"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/4.png"
     url: "#"
-    project_name: "프로젝트 이름"
+    project_name: " 19회 임베디드 소프트웨어 경진 대회 휴머노이드 부문 본선 진출"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/2.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "2021 한국통신학회 논문게재"
 
-  - image: "assets/images/portfolio/item-4.png"
+  - image: "assets/images/portfolio/3.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "2021 금융보안원 대학생 금융보안캠프 아이디어 경진대회 최우수상"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/5.png"
     url: "#"
-    project_name: "Dacon"
+    project_name: "한이음 공모전 /논문게재 프로젝트"
+    
 
 # Portfolio Page
 portfolio-label:
