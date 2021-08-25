@@ -315,30 +315,32 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/p8.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/p7.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/p4.png"
-    url: "#"
-
   - logo: "assets/images/clients-logo/p1.png"
     url: "#"
-    
-  - logo: "assets/images/clients-logo/p6.png"
+
+  - logo: "assets/images/clients-logo/p2.png"
     url: "#"
 
   - logo: "assets/images/clients-logo/p3.png"
     url: "#"
-    
+
   - logo: "assets/images/clients-logo/p4.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/p9.png"
+  - logo: "assets/images/clients-logo/p5.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/p6.png"
     url: "#"
     
+  - logo: "assets/images/clients-logo/p7.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/p8.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/p9.jpg"
+    url: "#"  
 #-------------------------------
 # Contact Section
 
